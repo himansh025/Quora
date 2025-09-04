@@ -1,0 +1,1 @@
+package com.example.Quora.models;public enum Liketoggle {        LIKE,        UNLIKE}
